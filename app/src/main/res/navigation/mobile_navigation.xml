@@ -23,8 +23,10 @@
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
     <fragment
-        android:id="@+id/test_slideshow"
-        android:name="com.varanasisoftwarejunction.drawerdemo.ui.slideshow.SlideshowFragment"
+        android:id="@+id/nav_login"
+        android:name="com.varanasisoftwarejunction.drawerdemo.ui.login.LoginFragment"
         android:label="@string/test_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
+
 </navigation>
